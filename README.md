@@ -15,7 +15,7 @@ To run the code in this repository, you'll need the following:
 - Pandas (https://pandas.pydata.org/)
 - Scikit-learn (https://scikit-learn.org/stable/)
 
-It's recommended to set up a virtual environment to keep your dependencies isolated.
+You could also use Python editors like VS Code or Google Colab to use the '.ipynb' format.
 
 ## Getting Started
 
